@@ -1,0 +1,94 @@
+html {overflow-y: scroll;}
+
+BODY {
+ text-align: center;
+ font-size: 10pt;
+ font-family: Verdana;
+ margin-top: 0px;
+ background-color: white;
+}
+
+table {
+ padding: 0px;
+ border-spacing: 0px;
+ border: none;
+ border-collapse: collapse;
+ margin: 0px;
+}
+
+TABLE.menu TD {
+ text-align: center;
+}
+
+TABLE.menu A {
+ color: #3e779b;
+ font-weight: bold;
+ font-family: Gulim, Arial;
+ font-size: 11pt;
+ qtext-decoration: underline;
+ text-decoration: none;
+ border-bottom:1px dotted;
+}
+
+H3.active {
+ color: #ed1c24;
+ font-weight: bold;
+ font-family: Gulim, Arial;
+ font-size: 11pt;
+ text-decoration: none;
+ margin: 0px;
+}
+
+P {
+ margin-bottom: 5px;
+ margin-top: 10px;
+}
+
+UL {
+ qmargin: 0px;
+}
+
+TABLE.ctable {
+ margin-left: auto; margin-right: auto;
+}
+
+.content TABLE {
+ color: #507190;
+ border-collapse: collapse;
+ margin-left: auto; margin-right: auto;
+}
+
+.content TD {
+ border: 1px solid #507190;
+ border-collapse: collapse;
+ font-size: 8pt;
+ padding-left: 4px;
+}
+
+.content {
+ font-size: 8pt;
+}
+
+.content P {
+ font-size: 8pt;
+}
+
+TD.header {
+ text-align: center;
+ qcolor: #ff5929;
+ font-weight: bold;
+ background-color: #D0DAFD;
+}
+
+TABLE.level1 TD {
+ background-color: #EFF2FF;
+}
+
+TD.level1 {
+ background-color: #EFF2FF;
+}
+
+TD.level2 {
+ background-color: #E8EDFF;
+}
+
